@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-![Leiser Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Leiser Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeiserVictor&show_icons=true&theme=radical)
 
 Here are some ideas to get you started:
 
