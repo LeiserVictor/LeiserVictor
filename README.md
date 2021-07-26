@@ -7,6 +7,9 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeiserVictor&show_icons=true&theme=blueberry" style="max-width:100%;">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorcbraz&layout=compact&theme=blueberry" style="max-width:100%;">
 <br>
+  <h3 align="left">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+</h3>
+
 
 <img alt="GIF" align="right" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/gandalf_parrot.gif" width="120rem" style="max-width:100%;">
 
