@@ -1,12 +1,10 @@
 <h1 align="center">Olá <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29px" style="max-width:100%;">, Eu sou o Leiser Victor !!</h1>
 <h3 align="center"> 👨‍💻 Estudando Ciência da Computação e curioso por tecnologia 👨‍💻</h3>
 
-<br>
 
   <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeiserVictor&show_icons=true&theme=blueberry" style="max-width:100%;">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeiserVictor&layout=compact&theme=blueberry" style="max-width:100%;">
-<br>
   
 <hr>
 <p align="right">
