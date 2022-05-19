@@ -7,12 +7,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeiserVictor&show_icons=true&theme=blueberry" style="max-width:100%;">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeiserVictor&layout=compact&theme=blueberry" style="max-width:100%;">
 <br>
-  <h3 align="left">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-</h3>
-
-
-<img alt="GIF" align="rigth" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/gandalf_parrot.gif" width="120rem" style="max-width:100%;">
-
+  
 <hr>
 <p align="right">
 <a href="mailto:contato.leiservictor@gmail.com" target="_blank"><img alt="GIF" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20rem" style="max-width:100%;"></a>
