@@ -1,5 +1,5 @@
 <h1 align="center">Olá :) Sou o Leiser Victor !!</h1>
-<h3 align="center"> 👨‍💻 Desenvolvedor FullStack Júnior e curioso por tecnologia 👨‍💻</h3>
+<h3 align="center"> 👨‍💻 Desenvolvedor Backend Júnior e curioso por tecnologia 👨‍💻</h3>
 
 
   <div align="center">
